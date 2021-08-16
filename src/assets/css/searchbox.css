@@ -1,0 +1,22 @@
+#search-input {
+  width: 100%;
+}
+
+#search-input:focus {
+  outline: none;
+}
+
+#search-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#input-container {
+  border: 1px solid #ccc;
+  height: 32px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 2px;
+}

@@ -1,0 +1,13 @@
+export const WHITE_BACKGROUND = "#FFFFFF";
+export const RED = "#FF0000";
+export const BLACK = "#212121";
+export const SEARCHBOX_BORDER = "#ccc";
+export const SEARCHBOX_BORDER_FOCUS = "#065fd4";
+export const SEARCH_ICON_COLOR = "#333";
+export const SEARCH_ICON_HOVER = "#606060";
+export const ICON_COLOR = "#606060";
+export const MENU_ITEM_COLOR = "#030303";
+export const GOOGLE_AVATAR_COLOR = "#33691e";
+export const CHIP_BAR_BORDER_COLOR = "#0000001a";
+export const CHIP_BACKGROUND_COLOR = "#0000000d";
+export const MENU_ICON_COLOR = "#909090";
